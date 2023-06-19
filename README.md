@@ -1,6 +1,6 @@
 <h1 align="center">
   <br/>
-  TDD products-api
+  handshake for the future api
 </h1>
 
 <p align="center">
